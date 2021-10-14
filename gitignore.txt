@@ -1,0 +1,4 @@
+# node_modules, .DS_Store folders. log file added for future reference. it does not exist
+node_modules/
+.DS_Store/
+build.log
