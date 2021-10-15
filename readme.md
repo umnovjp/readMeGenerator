@@ -14,7 +14,7 @@ teach elephants to fly [License: MIT](https://img.shields.io/badge/License-MIT-y
 
 #Installation Instructions
 install wings to elephants
-![First image](/Images/image1.jpg)
+![First image](/Images/image1.jpg|width=50)
 
 #Usage Information
 use tape to attach wings to a young elephant
