@@ -1,47 +1,42 @@
 
-#e
+#elepha
 
-###### Project Description
+## Project Description
 
-d 
-
-
-!([License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg))
+born elephant 
 
 
-### List of Content
-    
-Installation Instructions
-    
-Usage Information
-    
-Contributing
-    
-License
-    
-Questions
+!([License: MIT](src https://img.shields.io/badge/License-MIT-yellow.svg))
+
+
+## List of Content
+    ### Installation Instructions
+    ### Usage Information
+    ### Contributing
+    ### License
+    ### Questions
         
 Github Link
         
 Email
 
-##### Installation Instructions: 
-i
+## Installation Instructions: 
+ins
 ![First image](/Images/image1.jpg)
 Figure 1: Elephant 
 
-#### Usage Information: 
-u
+## Usage Information: 
+use
 ![Second image](/Images/image2.png)
 Figure2: Elephant with wings
 
-### Contributing: a
+## Contributing: alex
 
-## License
+## License: 
 
 this file is covered under MIT license
 
 ## Questions
-### My Github link is: (https://github.com/u)
-### Contact me by email if you have questions: (u)
+### My Github link is: (https://github.com/umnov)
+### Contact me by email if you have questions: (umnov)
     
