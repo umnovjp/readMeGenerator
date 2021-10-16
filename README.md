@@ -1,9 +1,9 @@
 # readMeGenerator
-#elephant
+##elephant
 
 ######Project Description
 
-teach elephant [License Badge]([License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg))
+teach elephant ![License Badge]([License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg))
 
 
 List of Content
