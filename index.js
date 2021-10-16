@@ -78,11 +78,11 @@ inquirer.prompt([
 #Project Description
 ${projectDescription} ${URL}
 
-#List of Content
-    ##Installation Instructions
-    ##Usage Information
-    ##Contributing
-    ##License
+# List of Content
+    ## Installation Instructions
+    ## Usage Information
+    ## Contributing
+    ## License
     ##Questions
         ###Github Link
         ###Email
