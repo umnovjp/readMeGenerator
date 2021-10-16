@@ -1,12 +1,12 @@
 
 #elephant
 
-######Project Description
+###### Project Description
 
-teach elephant [License Badge]([License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg))
+teach elephant ![License Badge]([License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg))
 
 
-List of Content
+### List of Content
     
 Installation Instructions
     
@@ -22,23 +22,23 @@ Github Link
         
 Email
 
-#####Installation Instructions: 
+##### Installation Instructions: 
 install
 ![First image](/Images/image1.jpg)
 Figure 1: Elephant 
 
-####Usage Information: 
-use tape
+#### Usage Information: 
+use
+![Second image](/Images/image2.png)
+Figure2: Elephant with wings
 
-Dude you could add a nice picture here
+### Contributing: alex
 
-###Contributing: alex
-
-##License
+## License
 
 this file is covered under MIT license
 
-##Questions
+## Questions
 ### My Github link is: (https://github.com/umnovjp)
-### Contact me by email if you have questions: (umnovjp@yahoo.com)
+### Contact me by email if you have questions: (umnovjp)
     
