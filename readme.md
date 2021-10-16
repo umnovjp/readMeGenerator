@@ -1,10 +1,12 @@
 
-#ele
+#e
 
 ###### Project Description
 
-des 
-![License Badge]([License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg))
+d 
+
+
+!([License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg))
 
 
 ### List of Content
@@ -24,12 +26,12 @@ Github Link
 Email
 
 ##### Installation Instructions: 
-ins
+i
 ![First image](/Images/image1.jpg)
 Figure 1: Elephant 
 
 #### Usage Information: 
-use
+u
 ![Second image](/Images/image2.png)
 Figure2: Elephant with wings
 
