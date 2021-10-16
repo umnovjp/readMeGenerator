@@ -1,33 +1,33 @@
 
-# elephants
+# wer
 
 ## Project Description
 
-der 
+sdf 
 
 
 !([License: MIT](Images/License-MIT-yellow.svg))
 
 
 ## List of Content
-### Installation Instructions
-### Usage Information
-### Contributing
-### License
-### Questions
+#### Installation Instructions
+#### Usage Information
+#### Contributing
+#### License
+#### Questions
     
 Github Link
     
 Email
 
 ## Installation Instructions: 
-asd
-![First image](/Images/image1.jpg 50) 
+wert
+![First image](/Images/image1.jpg) 
 Figure 1: Elephant 
 
 ## Usage Information: 
-set
-![Second image](/Images/image2.png 50) 
+mnbv
+![Second image](/Images/image2.png) 
 Figure2: Elephant with wings
 
 ## Contributing: alex
