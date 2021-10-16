@@ -1,7 +1,7 @@
-#elephan
+#elephants
 
 #Project Description
-teach to fly [License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+teach an elephant to fly [License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
 #List of Content
@@ -14,11 +14,12 @@ teach to fly [License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
         ###Email
 
 #Installation Instructions
-install wings
-![First image](/Images/image1.jpg){:height="50%" width="50%"}
+install wings to elephant's back
+![First image](/Images/image1.jpg)
+Figure 1
 
 #Usage Information
-use tape
+use tape to attach the wings
 Dude you could add a nice picture here
 
 #Contributing
@@ -28,6 +29,6 @@ alex
 this file is covered under MIT license
 
 #Questions
-## My Github link is [Github](https://github.com/umnovjp)
-## My Email is [Email] umnovjp
+## My Github link is: (https://github.com/umnovjp)
+## Contact me by email if you have questions: (umnovjp@yahoo.com)
     
