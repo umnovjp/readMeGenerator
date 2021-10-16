@@ -1,9 +1,10 @@
 
-#elephant
+#ele
 
 ###### Project Description
 
-teach elephant ![License Badge]([License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg))
+des 
+![License Badge]([License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg))
 
 
 ### List of Content
@@ -23,7 +24,7 @@ Github Link
 Email
 
 ##### Installation Instructions: 
-install
+ins
 ![First image](/Images/image1.jpg)
 Figure 1: Elephant 
 
@@ -32,13 +33,13 @@ use
 ![Second image](/Images/image2.png)
 Figure2: Elephant with wings
 
-### Contributing: alex
+### Contributing: a
 
 ## License
 
 this file is covered under MIT license
 
 ## Questions
-### My Github link is: (https://github.com/umnovjp)
-### Contact me by email if you have questions: (umnovjp)
+### My Github link is: (https://github.com/u)
+### Contact me by email if you have questions: (u)
     
