@@ -1,11 +1,12 @@
 
-#ele
+#elephant
 
 ######Project Description
-descr [License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)
+
+teach elephant [License Badge]([License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg))
 
 
-#List of Content
+List of Content
     
 Installation Instructions
     
@@ -21,23 +22,23 @@ Github Link
         
 Email
 
-#####Installation Instructions
-ins
+#####Installation Instructions: 
+install
 ![First image](/Images/image1.jpg)
 Figure 1: Elephant 
 
-####Usage Information
-use
+####Usage Information: 
+use tape
+
 Dude you could add a nice picture here
 
-###Contributing
-alex
+###Contributing: alex
 
 ##License
 
-this file is covered under Mozilla license
+this file is covered under MIT license
 
 ##Questions
 ### My Github link is: (https://github.com/umnovjp)
-### Contact me by email if you have questions: (unovjp@yahoo.com)
+### Contact me by email if you have questions: (umnovjp@yahoo.com)
     
