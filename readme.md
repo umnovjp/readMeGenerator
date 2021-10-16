@@ -1,12 +1,12 @@
 
-#po
+# elephants
 
 ## Project Description
 
-yu 
+der 
 
 
-!([License: MIT](src https://img.shields.io/badge/License-MIT-yellow.svg))
+!([License: MIT](Images/License-MIT-yellow.svg))
 
 
 ## List of Content
@@ -21,22 +21,22 @@ Github Link
 Email
 
 ## Installation Instructions: 
-ty
+asd
 ![First image](/Images/image1.jpg 50) 
 Figure 1: Elephant 
 
 ## Usage Information: 
-er
+set
 ![Second image](/Images/image2.png 50) 
 Figure2: Elephant with wings
 
-## Contributing: as
+## Contributing: alex
 
 ## License: 
 
 this file is covered under MIT license
 
 ## Questions
-### My Github link is: (https://github.com/rt)
-### Contact me by email if you have questions: (rt)
+### My Github link is: (https://github.com/umn)
+### Contact me by email if you have questions: (umn)
     
