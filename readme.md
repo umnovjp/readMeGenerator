@@ -1,13 +1,13 @@
 
-# io
+# hg
 
 ## Project Description
 
-ty 
+sd 
 
 
 !([License: MIT](Images/License-MIT-yellow.svg))
-<img src="./Images/License-IPL 1.0-blue.svg>
+<img src="./Images/License-IPL 1.0-blue.svg">
 
 
 ## List of Content
@@ -22,24 +22,24 @@ Github Link
 Email
 
 ## Installation Instructions: 
-we
+df
   
 ![First image](/Images/image1.jpg) 
 Figure 1: Elephant 
 
 ## Usage Information: 
-er  
+gh  
   
 ![Second image](/Images/image2.png) 
 Figure2: Elephant with wings
 
-## Contributing: df
+## Contributing: rt
 
 ## License: 
 
 this file is covered under MIT license
 
 ## Questions
-### My Github link is: (https://github.com/ty)
-### Contact me by email if you have questions: (rt)
+### My Github link is: (https://github.com/io)
+### Contact me by email if you have questions: (yu)
     
