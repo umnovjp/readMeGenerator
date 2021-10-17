@@ -1,19 +1,16 @@
 
-# title
+# Title of my project
 
 ## Project Description
 
-description 
+description of my project 
 
 
-!(<img src="./Images/License-MPL%202.0-brightgreen.svg">)
-<img src="./Images/License-MPL%202.0-brightgreen.svg">
-<img src="./Images/License-IPL 1.0-blue.svg">
-
+<img src="./no license">
 
 ## List of Content
-#### Installation Instructions
-#### Usage Information
+#### Installation Instructions [Go To Installation Instructions](##installation-instructions)
+#### Usage Information [Go To Usage Information](##usage-information)
 #### Contributing
 #### License
 #### Questions  
@@ -23,24 +20,24 @@ Github Link
 Email
 
 ## Installation Instructions: 
-install wings
-  
-![First image](/Images/image1.jpg) 
-Figure 1: Elephant 
-
-## Usage Information: 
-use tape  
+Install wings
   
 
 Dude you could add a nice picture here
 
-## Contributing: alex
+## Usage Information: 
+Usage  
+  
+![Second image](/Images/image4.jpg) 
+Figure2: Elephant with wings
+
+## Contributing: Alex
 
 ## License: 
 
-this file is covered under Mozilla license
+this file is covered under no_license license
 
 ## Questions
-### My Github link is: (https://github.com/umnovjp)
-### Contact me by email if you have questions: (umnovjp@yahoo.com)
+### My Github link is: (https://github.com/umn)
+### Contact me by email if you have questions: (umn)
     
