@@ -1,5 +1,5 @@
 
-# Elephants
+    Elephants
 <img src="./Image/license-Unlicense-blue.svg">
 ## Project Description
 
@@ -18,13 +18,13 @@ Github Link
 Email
 
 ## Installation Instructions: 
-Install wings to elephants back. Use tape if nescessary.
+Install wings to elephant's back using tape
   
 ![First image](/Images/image1.jpg) 
 Figure 1: Elephant 
 
 ## Usage Information: 
-Quickly move wings in vertical direction up and down.   
+Quickly move wings up and down to create lifting force.  
   
 ![Second image](/Images/image4.jpg) 
 Figure2: Elephant with wings
