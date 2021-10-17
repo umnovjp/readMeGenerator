@@ -3,11 +3,11 @@
 
 ## Project Description
 
-des 
+teach an elephant to fly 
 
 
-!(<img src=".Images/License-IPL%201.0-blue.svg>)
-<img src=".Images/License-IPL%201.0-blue.svg>
+!(<img src="./Images/License-IPL%201.0-blue.svg>)
+<img src="./Images/License-IPL%201.0-blue.svg>
 <img src="./Images/License-IPL 1.0-blue.svg">
 
 
@@ -23,13 +23,13 @@ Github Link
 Email
 
 ## Installation Instructions: 
-ins
+install wings
   
 ![First image](/Images/image1.jpg) 
 Figure 1: Elephant 
 
 ## Usage Information: 
-use  
+use tape to attach wings  
   
 ![Second image](/Images/image4.jpg) 
 Figure2: Elephant with wings
@@ -41,6 +41,6 @@ Figure2: Elephant with wings
 this file is covered under IBM license
 
 ## Questions
-### My Github link is: (https://github.com/u)
-### Contact me by email if you have questions: (i)
+### My Github link is: (https://github.com/umnovjp)
+### Contact me by email if you have questions: (umnovjp@yahoo.com)
     
