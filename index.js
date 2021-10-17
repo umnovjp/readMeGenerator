@@ -14,6 +14,11 @@ inquirer.prompt([
     name: 'projectDescription',
     message: 'what is your project description',
 },
+{type: 'rawlist',
+    message: 'do you want to add image 1?',
+    name: 'image1',
+    choices: ['y', 'n'],
+},
 {
     type: 'Input',
     name: 'installInstr',
@@ -23,11 +28,16 @@ inquirer.prompt([
     message: 'do you want to add image 1?',
     name: 'image1',
     choices: ['y', 'n'],
-}
+},
 {
     type: 'Input',
     name: 'usageInfo',
     message: 'enter usage information',
+},
+{type: 'rawlist',
+    message: 'do you want to add image 2?',
+    name: 'image2',
+    choices: ['y', 'n'],
 },
     {
         type: 'Input',
@@ -56,53 +66,67 @@ inquirer.prompt([
     let projectDescription = data.projectDescription;
     let installInstr = data.installInstr;
     let image1 = data.image1;
+    let image2 = data.image2;
     let usageInfo = data.usageInfo;
     let nameVar = data.name;
     let email = data.email;
     let git = data.github;
     let license = data.license;
 
-    if (image1 === 'y') {image1Link = '![First image](/Images/image1.jpg)'}
-    else {image1Link = 'Dude you could add a nice picture here'};
+    if (image1 === 'y') {image1Link = '![First image](/Images/image1.jpg) \nFigure 1: Elephant '}
+    else {image1Link = '\nDude you could add a nice picture here'};
+    if (image2 === 'y') {image2Link = '![Second image](/Images/image4.jpg) \nFigure2: Elephant with wings'}
+    else {image2Link = '\nDude you could add a nice picture here'};
     // not too fancy way to get URL of license badge. Using object would be more fancy. I used two arrays instead. It is faster
     const choices = generateMarkdown.licenses;
     const choice = data.license; 
     const index = choices.indexOf(choice);
-    console.log(choices + ' ' + choice + ' ' + index);
+    // console.log(choices + ' ' + choice + ' ' + index);
     const URLs = generateMarkdown.licenseBadges;
-    const URL = URLs[index];
+    const URLShort = URLs[index]; // .split('(');
+    // const altText = URLArray[0];
+    // const altText2 = altText.replace('(','');
+    // console.log(URLArray);
+    // const URL = altText2 + '<img src="' + URLArray[1] + '">';
+    const URL = '<img src="./' + URLShort + '">';
     console.log(URL);
 
-    let layout = `#${projectTitle}
+    let layout = `
+# ${projectTitle}
 
-#Project Description
-${projectDescription} ${URL}
+## Project Description
+\n${projectDescription} 
+\n
+${URL}
 
-# List of Content
-    ## Installation Instructions
-    ## Usage Information
-    ## Contributing
-    ## License
-    ##Questions
-        ###Github Link
-        ###Email
+## List of Content
+#### [Installation Instructions](#installation-instructions)
+#### [Usage Information](#usage-information)
+#### Contributing
+#### License
+#### Questions  
+    \nGithub Link
+    \nEmail
 
-#Installation Instructions
+## Installation Instructions: 
 ${installInstr}
+  
 ${image1Link}
 
-#Usage Information
-${usageInfo}
+## Usage Information: 
+${usageInfo}  
+  
+${image2Link}
 
-#Contributing
-${nameVar}
+## Contributing: ${nameVar}
 
-#License
+## License: 
+
 this file is covered under ${license} license
 
-#Questions
-## My Github link is [Github](https://github.com/${git})
-## My Email is [Email] ${email}
+## Questions
+### My Github link is: (https://github.com/${git})
+### Contact me by email if you have questions: (${email})
     `
     fs.writeFile('readme.md', layout, function(err) {
         console.log(err)
