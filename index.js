@@ -92,7 +92,7 @@ inquirer.prompt([
     console.log(URL);
 
     let layout = `
-# ${projectTitle}
+    # ${projectTitle}  
 ${URL}
 ## Project Description
 \n${projectDescription} 

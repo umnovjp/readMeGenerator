@@ -1,9 +1,9 @@
 
-    Elephants
-<img src="./Image/license-Unlicense-blue.svg">
+    # Elephants  
+<img src="./Images/license-Unlicense-blue.svg">
 ## Project Description
 
-Teach a young elephant to fly. 
+Teach a young elephants to fly. 
 
 
 ## List of Content
@@ -18,13 +18,13 @@ Github Link
 Email
 
 ## Installation Instructions: 
-Install wings to elephant's back using tape
+Attach wings to elephant's back using tape.
   
 ![First image](/Images/image1.jpg) 
 Figure 1: Elephant 
 
 ## Usage Information: 
-Quickly move wings up and down to create lifting force.  
+Move wings up and down to create lifting force.  
   
 ![Second image](/Images/image4.jpg) 
 Figure2: Elephant with wings
