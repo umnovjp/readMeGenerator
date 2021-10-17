@@ -1,43 +1,41 @@
 
-# title
-
+# Elephants
+<img src="./Image/license-Unlicense-blue.svg">
 ## Project Description
 
-descr 
+Teach a young elephant to fly. 
 
-
-<img src="./Image/license-Unlicense-blue.svg">
 
 ## List of Content
 #### [Installation Instructions](#installation-instructions)
 #### [Usage Information](#usage-information)
-#### Contributing
-#### License
-#### Questions  
+#### [Contributing](#contributing)
+#### [License](#license)
+#### [Questions](#questions) 
     
 Github Link
     
 Email
 
 ## Installation Instructions: 
-install
+Firmly attach wings to elephant's back.
   
 ![First image](/Images/image1.jpg) 
 Figure 1: Elephant 
 
 ## Usage Information: 
-use  
+Use tape to attach wings.  
   
 ![Second image](/Images/image4.jpg) 
 Figure2: Elephant with wings
 
-## Contributing: me
+## Contributing: Alexander
 
 ## License: 
 
 this file is covered under Unlicense license
 
 ## Questions
-### My Github link is: (https://github.com/o)
-### Contact me by email if you have questions: (u)
+### My Github link is: (https://github.com/umnovjp)
+### Contact me by email if you have questions: (umnovjp@yahoo.com)
     

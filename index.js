@@ -93,18 +93,17 @@ inquirer.prompt([
 
     let layout = `
 # ${projectTitle}
-
+${URL}
 ## Project Description
 \n${projectDescription} 
-\n
-${URL}
+
 
 ## List of Content
 #### [Installation Instructions](#installation-instructions)
 #### [Usage Information](#usage-information)
-#### Contributing
-#### License
-#### Questions  
+#### [Contributing](#contributing)
+#### [License](#license)
+#### [Questions](#questions) 
     \nGithub Link
     \nEmail
 
@@ -128,7 +127,7 @@ this file is covered under ${license} license
 ### My Github link is: (https://github.com/${git})
 ### Contact me by email if you have questions: (${email})
     `
-    fs.writeFile('readme.md', layout, function(err) {
+    fs.writeFile('README.md', layout, function(err) {
         console.log(err)
     })
     
