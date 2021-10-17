@@ -1,12 +1,13 @@
 
-# hg
+# title
 
 ## Project Description
 
-sd 
+des 
 
 
-!([License: MIT](Images/License-MIT-yellow.svg))
+!(<img src=".Images/License-IPL%201.0-blue.svg>)
+<img src=".Images/License-IPL%201.0-blue.svg>
 <img src="./Images/License-IPL 1.0-blue.svg">
 
 
@@ -22,24 +23,24 @@ Github Link
 Email
 
 ## Installation Instructions: 
-df
+ins
   
 ![First image](/Images/image1.jpg) 
 Figure 1: Elephant 
 
 ## Usage Information: 
-gh  
+use  
   
-![Second image](/Images/image2.png) 
+![Second image](/Images/image4.jpg) 
 Figure2: Elephant with wings
 
-## Contributing: rt
+## Contributing: alex
 
 ## License: 
 
-this file is covered under MIT license
+this file is covered under IBM license
 
 ## Questions
-### My Github link is: (https://github.com/io)
-### Contact me by email if you have questions: (yu)
+### My Github link is: (https://github.com/u)
+### Contact me by email if you have questions: (i)
     
