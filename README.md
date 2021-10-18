@@ -1,11 +1,11 @@
 
-# elephants  
+# Elephants  
 <img src="./Images/License-MPL%202.0-brightgreen.svg">
 
 ## Project Description
 
 
-Teach young elephant to fly. 
+teach a young elephant to fly. 
 
 ## List of Contents
 #### [Go to Installation Instructions](#installation-instructions)
@@ -19,7 +19,7 @@ Github Link
 Email
 
 ## Installation Instructions: 
-Install wings to elephant's back.
+install wings to elephant's back.
   
 ![First image](/Images/image1.jpg) 
 Figure 1: Elephant 
