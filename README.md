@@ -5,7 +5,7 @@
 ## Project Description
 
 
-invite an elephant to join my experiment 
+invite elephant to join my test 
 
 ## List of Contents
 #### [Go to Installation Instructions](#installation-instructions)
@@ -34,12 +34,14 @@ Figure2: Elephant with wings
 ## Contributing: only Alex can contribute
 
 ## Tests: 
-move wings up and down to create lifting force
+Move wings as hard as you could
 
 ## License: 
 this file is covered under Mozilla license
 
 ## Questions
-#### My Github link is: https://github.com/umnovjp
-#### Contact me by email if you have questions: umnovjp@yahoo.com
+#### My Github link is: 
+https://github.com/umnovjp
+#### Contact me by email if you have questions: 
+umnovjp@yahoo.com
     
