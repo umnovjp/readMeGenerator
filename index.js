@@ -42,11 +42,16 @@ inquirer.prompt([
     {
         type: 'Input',
         name: 'name',
-        message: 'who contributed',
+        message: 'who contributed?',
+},
+{
+    type: 'Input',
+    name: 'test',
+    message: 'which test do we run?',
 },
     {
         type: 'Input',
-    message: 'what is your email address',
+    message: 'what is your email address?',
     name: 'email'
 },
       
@@ -69,6 +74,7 @@ inquirer.prompt([
     let image2 = data.image2;
     let usageInfo = data.usageInfo;
     let nameVar = data.name;
+    let test = data.test;
     let email = data.email;
     let git = data.github;
     let license = data.license;
@@ -102,7 +108,8 @@ ${URL}
 ## List of Contents
 #### [Go to Installation Instructions](#installation-instructions)
 #### [Go to Usage Information](#usage-information)
-#### [Go to Contributors](#contributors)
+#### [Go to Contributing](#contributors)
+#### [Go to Tests](#tests)
 #### [Go to License](#license)
 #### [Go to Questions](#questions) 
     \nGithub Link
@@ -118,11 +125,11 @@ ${usageInfo}
   
 ${image2Link}
 
-## Contributors: ${nameVar}
+## Contributing: only ${nameVar} can contribute
 
-## License: 
+## Tests: ${test}
 
-this file is covered under ${license} license
+## License: this file is covered under ${license} license
 
 ## Questions
 ### My Github link is: (https://github.com/${git})
