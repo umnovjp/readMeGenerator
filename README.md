@@ -8,11 +8,11 @@
 To teach a young elephant to fly. 
 
 ## List of Content
-#### [Installation Instructions](#installation-instructions)
-#### [Usage Information](#usage-information)
-#### [Contributing](#contributing)
-#### [License](#license)
-#### [Questions](#questions) 
+#### [Installation](#installation-instructions)
+#### [Usage](#usage-information)
+#### [Contributed](#contributing)
+#### [License](#license-info)
+#### [Questions](#questions-about-me) 
     
 Github Link
     
@@ -32,11 +32,11 @@ Dude you could add a nice picture here
 
 ## Contributing: Alex
 
-## License: 
+## License info: 
 
 this file is covered under Mozilla license
 
-## Questions
+## Questions about me:
 ### My Github link is: (https://github.com/umnovjp)
 ### Contact me by email if you have questions: (umnovjp@yaho..com)
     
