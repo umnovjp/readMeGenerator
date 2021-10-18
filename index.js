@@ -99,12 +99,12 @@ ${URL}
 
 \n${projectDescription} 
 
-## List of Content
-#### [Installation Instructions](#installation-instructions)
-#### [Usage Information](#usage-information)
-#### [Contributing](#contributing)
-#### [License](#license)
-#### [Questions](#questions) 
+## List of Contents
+#### [Instructions](#installation-instructions)
+#### [Usage](#usage-information)
+#### [Contributors](#contributing)
+#### [Licensed](#license)
+#### [Q&A](#questions) 
     \nGithub Link
     \nEmail
 
