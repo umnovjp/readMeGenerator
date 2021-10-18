@@ -108,7 +108,7 @@ ${URL}
 ## List of Contents
 #### [Go to Installation Instructions](#installation-instructions)
 #### [Go to Usage Information](#usage-information)
-#### [Go to Contributing](#contributors)
+#### [Go to Contributing](#contributing)
 #### [Go to Tests](#tests)
 #### [Go to License](#license)
 #### [Go to Questions](#questions) 
@@ -127,13 +127,15 @@ ${image2Link}
 
 ## Contributing: only ${nameVar} can contribute
 
-## Tests: ${test}
+## Tests: 
+${test}
 
-## License: this file is covered under ${license} license
+## License: 
+this file is covered under ${license} license
 
 ## Questions
-### My Github link is: (https://github.com/${git})
-### Contact me by email if you have questions: (${email})
+#### My Github link is: (https://github.com/${git})
+#### Contact me by email if you have questions: (${email})
     `
     fs.writeFile('README.md', layout, function(err) {
         console.log(err)
