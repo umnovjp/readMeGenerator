@@ -100,11 +100,11 @@ ${URL}
 \n${projectDescription} 
 
 ## List of Contents
-#### [Instructions](#installation-instructions)
-#### [Usage](#usage-information)
-#### [Contributors](#contributing)
-#### [Licensed](#license)
-#### [Q&A](#questions) 
+#### [Go to Installation Instructions](#installation-instructions)
+#### [Go to Usage Information](#usage-information)
+#### [Go to Contributors](#contributors)
+#### [Go to License](#license)
+#### [Go to Questions](#questions) 
     \nGithub Link
     \nEmail
 
@@ -118,7 +118,7 @@ ${usageInfo}
   
 ${image2Link}
 
-## Contributing: ${nameVar}
+## Contributors: ${nameVar}
 
 ## License: 
 
