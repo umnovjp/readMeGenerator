@@ -5,21 +5,21 @@
 ## Project Description
 
 
-Teach a young elephant to fly. 
+Teach young elephant to fly. 
 
 ## List of Contents
-#### [Instructions](#installation-instructions)
-#### [Usage](#usage-information)
-#### [Contributors](#contributing)
-#### [Licensed](#license)
-#### [Q&A](#questions) 
+#### [Go to Installation Instructions](#installation-instructions)
+#### [Go to Usage Information](#usage-information)
+#### [Go to Contributors](#contributors)
+#### [Go to License](#license)
+#### [Go to Questions](#questions) 
     
 Github Link
     
 Email
 
 ## Installation Instructions: 
-Install wings to elephant's back
+Install wings to elephant's back.
   
 ![First image](/Images/image1.jpg) 
 Figure 1: Elephant 
@@ -27,10 +27,10 @@ Figure 1: Elephant
 ## Usage Information: 
 Use tape to attach wings.  
   
+![Second image](/Images/image4.jpg) 
+Figure2: Elephant with wings
 
-Dude you could add a nice picture here
-
-## Contributing: Alex
+## Contributors: Alex
 
 ## License: 
 
