@@ -5,7 +5,7 @@
 ## Project Description
 
 
-teach an elephant to fly. 
+teach elephant to fly. 
 
 ## List of Contents
 #### [Go to Installation Instructions](#installation-instructions)
